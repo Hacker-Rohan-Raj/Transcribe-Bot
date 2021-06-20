@@ -2,7 +2,7 @@
 
 # Made with Love by Hacker--Rohan Raj
 
-#orks on Any OS with Python Executer
+#Works on Any OS with Python Executer
 
 # Installation for Debian/Kali Linux:-
 ```
