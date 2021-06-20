@@ -21,4 +21,4 @@ python3 transcribe-bot.py
 Install speechrecognition Library
 Run it By Using Pycharm or Python.
 
-Made with Love By:- Rohan Raj:heart:
+Made with Love By:- :heart::heart::heart:Rohan Raj:heart::heart::heart:
